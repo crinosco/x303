@@ -1,0 +1,20 @@
+/*
+Theme Name: X303
+Theme URI: https://maatwp.co/x303
+Author: MaatWP / Crinos
+Author URI: https://maatwp.co/
+Description: X303 - Basic Core for WP FSE Themes is a dynamic WordPress theme framework that builds upon the foundation of the Twenty Twenty Three theme. It\'s designed to offer an intuitive and streamlined approach to website development, with a focus on flexibility and versatility. With X303, you have access to a range of customization options and tools to create a unique and engaging website that reflects your brand\'s personality. Whether you\'re a blogger, e-commerce store owner, or creative agency, X303 can help you achieve your online goals with ease. With its responsive design and modern features, X303 is the perfect choice for those looking to create a sleek and professional website in no time.
+Requires at least: 5.8
+Tested up to: 6.2
+Requires PHP: 5.7
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: 
+Text Domain: x303
+Tags: blog, news, portfolio, one-column, wide-blocks, accessibility-ready, block-patterns, block-styles, custom-colors, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog, news, portfolio, one-column, wide-blocks, accessibility-ready, block-patterns, block-styles, custom-colors, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, rtl-language-support, sticky-post, threaded-comments, translation-ready, minimalistic
+*/.wp-block-post-title {
+    
+    margin-top: 3rem!important;
+    
+}
