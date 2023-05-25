@@ -192,12 +192,12 @@
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "none"
 							}
 						},
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -219,12 +219,12 @@
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "none"
 							}
 						},
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -280,12 +280,12 @@
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "none"
 							}
 						},
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -316,7 +316,7 @@
 					"link": {
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -352,12 +352,12 @@
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "none"
 							}
 						},
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -413,7 +413,7 @@
 					"link": {
 						":hover": {
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -458,7 +458,7 @@
 						},
 						":focus": {
 							"typography": {
-								"textDecoration": "underline dashed"
+								"textDecoration": "none"
 							}
 						},
 						":hover": {
@@ -466,7 +466,7 @@
 								"text": "var(--wp--preset--color--tertiary)"
 							},
 							"typography": {
-								"textDecoration": "underline"
+								"textDecoration": "none"
 							}
 						},
 						"typography": {
@@ -570,7 +570,7 @@
 				},
 				":focus": {
 					"typography": {
-						"textDecoration": "underline dashed"
+						"textDecoration": "none"
 					}
 				},
 				":hover": {
@@ -582,7 +582,7 @@
 					"text": "var(--wp--preset--color--text)"
 				},
 				"typography": {
-					"textDecoration": "underline"
+					"textDecoration": "none"
 				}
 			}
 		},
