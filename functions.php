@@ -35,12 +35,8 @@ add_action( 'after_setup_theme', 'x303_basic_core_for_wp_fse_themes_setup' );
  *
  * @return void
  */
-function x303_basic_core_for_wp_fse_themes_styles() {
-	wp_enqueue_style(
-		'x303-basic-core-for-wp-fse-themes-style',
-		get_stylesheet_uri(),
-		[],
-		wp_get_theme()->get( 'Version' )
-	);
+// Enqueue styles for the theme
+function x303_basic_core_enqueue_styles() {
+    wp_enqueue_style( 'x303-basic-core-style', get_theme_file_uri( 'style.css' ) );
 }
-add_action( 'wp_enqueue_scripts', 'x303_basic_core_for_wp_fse_themes_styles' );
+add_action( 'enqueue_block_assets', 'x303_basic_core_enqueue_styles' );
